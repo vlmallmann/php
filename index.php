@@ -1,5 +1,5 @@
 <?php
 
-echo "Meu primeiro código PHP! <strong> Hello Wold</strong>";
+echo "Meu primeiro código PHP!";
 
 ?>
